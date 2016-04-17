@@ -1,6 +1,11 @@
 # Horizon React-Native Example Application
 This is an example application which shows how to set up [horizon](https://github.com/rethinkdb/horizon) with [react-native](https://facebook.github.io/react-native/).
 
+## Notice
+Horizon is still under development and can't be used with react-native yet.
+This repository is used to explore the pieces which will have to be changed.
+This application may have errors when it is run.
+
 ## Preparing development
 
 Install global packages if you don't have them already
